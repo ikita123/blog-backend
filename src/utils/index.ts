@@ -1,0 +1,1 @@
+export {default as CommonFunction} from './commonFunction.utils'
